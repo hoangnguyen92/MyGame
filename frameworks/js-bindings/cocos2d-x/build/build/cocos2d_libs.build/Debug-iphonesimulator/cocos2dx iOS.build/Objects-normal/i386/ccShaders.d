@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShaders.cpp \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/renderer/ccShaders.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/platform/ios/CCGL.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCPlatformConfig.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCPlatformMacros.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Position_uColor.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Position_uColor.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionColor.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionColor.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTexture.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTexture.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureA8Color.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureA8Color.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor_noMVP.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureColor_noMVP.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTextureColorAlphaTest.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTexture_uColor.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionTexture_uColor.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionColorLengthTexture.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_PositionColorLengthTexture.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Label.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Label_df.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Label_df_glow.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Label_normal.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_Label_outline.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_3D_PositionTex.vert \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_3D_Color.frag \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/renderer/ccShader_3D_ColorTex.frag

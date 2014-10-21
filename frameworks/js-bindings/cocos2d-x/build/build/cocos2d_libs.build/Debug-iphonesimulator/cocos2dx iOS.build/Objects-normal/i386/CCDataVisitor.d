@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/cocos/base/CCDataVisitor.cpp \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCPlatformMacros.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCPlatformConfig.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCBool.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCDataVisitor.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCInteger.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/platform/ios/CCStdC.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCFloat.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCDouble.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCString.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCArray.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/ccCArray.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCDictionary.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/base/uthash.h \
+  /Users/hoangnguyen/Documents/games/MyGame/frameworks/js-bindings/cocos2d-x/build/../cocos/deprecated/CCSet.h
